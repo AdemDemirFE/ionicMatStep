@@ -3,6 +3,10 @@
 * App created using the [Ionic framework](https://ionicframework.com/docs) to use [mat select](https://material.angular.io/components/select/overview) to select from a list of options, [mat paginator](https://material.angular.io/components/paginator/overview) to navigate pages and [Material Stepper](https://material.angular.io/components/stepper/overview) to divide content into logical steps.
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/ionic-angular-material?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/ionic-angular-material?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/ionic-angular-material?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/ionic-angular-material?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -64,7 +68,10 @@
 
 * Project inspired by [Simon Grimm´s Youtube video: ionic angular material](https://www.youtube.com/watch?v=pd-CF-dWEak)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AdemDemirFE), email: adem.demir.fe@gmail.com
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
