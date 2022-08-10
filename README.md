@@ -23,10 +23,6 @@
 
 * Angular Material is the implementation of Material Design for Angular. It offers a wide range of components and patterns for navigation, forms, buttons, layouts etc.
 
-## :camera: Screenshots
-
-![image](./img/front-screen.png)
-
 ## :signal_strength: Technologies
 
 * [Ionic v6](https://ionicframework.com/)
@@ -67,4 +63,4 @@
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AdemDemirFE), email: adem.demir.fe@gmail.com
+* Repo created by [ADemir](https://github.com/AdemDemirFE), email: adem.demir.fe@gmail.com
