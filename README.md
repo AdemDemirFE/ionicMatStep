@@ -7,16 +7,13 @@
 ## :page_facing_up: Table of contents
 
 * [:zap: Ionic Angular Material](#ionic-angular-material)
-  * [:page_facing_up: Table of contents](#table-of-contents)
   * [:books: General info](#general-info)
-  * [:camera: Screenshots](#screenshots)
   * [:signal_strength: Technologies](#technologies)
   * [:floppy_disk: Setup](#setup)
   * [:computer: Code Examples](#code-examples)
   * [:cool: Features](#features)
   * [:clipboard: Status & To-do list](#status--to-do-list)
   * [:clap: Inspiration](#inspiration)
-  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
